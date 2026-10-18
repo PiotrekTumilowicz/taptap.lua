@@ -1,3 +1,6 @@
+-- Project: taptap_Pico8
+-- Folder: /Users/piotrtumilowicz/Library/Application Support/pico-8/carts/taptap/
+
 -- OPTYMALIZACJA: +=/-=/*= to skroty PICO-8; split tworzy liste liczb.
 -- TAPTAP: ruch, machniecia i szybowanie
 -- Komentarze bez polskich znakow dla zgodnosci z edytorem PICO-8.
